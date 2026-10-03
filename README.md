@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of swaggymacro/cnformat.** Not for installation: use [Packagist](https://packagist.org/packages/swaggymacro/cnformat) or the [upstream repository](https://github.com/SwaggyMacro/cnformat).
 
-**0** versions archived · Latest: [`0.5.1`](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.5.1) · License: `MIT` · Flarum: `^1.0.0`
+**7** versions archived · Latest: [`0.5.1`](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.5.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2022-03-13 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.1) |
+| `0.2` | 2022-03-13 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.2) |
+| `0.3` | 2022-03-14 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.3) |
+| `0.4` | 2022-03-14 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.4) |
+| `0.4.1` | 2022-04-04 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.4.1) |
+| `0.5` | 2022-04-04 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.5) |
+| `0.5.1` | 2022-04-04 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-cnformat/tree/archive/v0.5.1) |
 
 Catalog entry: [packages/swaggymacro-cnformat.json](https://github.com/flarchive/archive-index/blob/main/packages/swaggymacro-cnformat.json)
 
